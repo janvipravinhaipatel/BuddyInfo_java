@@ -22,6 +22,7 @@ public class AddressBook {
         // Create an AddressBook object
         AddressBook addressBook = new AddressBook();
 
+
         // Populate it with BuddyInfo instances
         BuddyInfo buddy1 = new BuddyInfo("John", "123-456-7890");
         BuddyInfo buddy2 = new BuddyInfo("Jane", "987-654-3210");
